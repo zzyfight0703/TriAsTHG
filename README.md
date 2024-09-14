@@ -1,3 +1,5 @@
 # TriAsTHG
 Triple Attentions for Talking Head Generation (TriAsTHG)
-[![Watch the video](https://raw.githubusercontent.com/zzyfight0703/TriAsTHG/main/assets/thumbnail.jpg)](https://raw.githubusercontent.com/zzyfight0703/TriAsTHG/main/zhanshi/zhanshi1.mp4)
+
+https://github.com/user-attachments/assets/e76f094e-c9f9-4d8d-a239-c084bff18e35
+
